@@ -46,8 +46,9 @@ If you want to contribute to the project feel free to join us on our Discord ser
 
 <br>
 
-## Link
-* [Our Discord](https://discord.gg/hTtSYh7WbQ)
+## Databases
+1. https://github.com/Titans-Project/BfaCore-Reforged/releases/tag/InitRelease
+2.
 
 <br>
 
@@ -55,5 +56,6 @@ If you want to contribute to the project feel free to join us on our Discord ser
 * BfACore source components are released under the [GNU AGPL v3](https://github.com/Boralus-Project/BfaCore-Reforged/blob/main/LICENSE)
 <br>
 <br>
+
 
 **Important :** `Nobody is allowed to push commits directly to the core. All changes are reviewed and tested before.`
