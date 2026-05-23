@@ -47,15 +47,20 @@ If you want to contribute to the project feel free to join us on our Discord ser
 <br>
 
 ## Databases
-1. https://github.com/Titans-Project/BfaCore-Reforged/releases/tag/InitRelease
+1.
+https://github.com/Titans-Project/BfaCore-Reforged/releases/tag/InitRelease
+
 
 2.
 https://github.com/Titans-Project/BfaCore-Reforged/releases/tag/v0.2
 
+
 3.
 https://github.com/Titans-Project/BfaCore-Reforged/releases/tag/v0.2.1
 
-4.https://github.com/Titans-Project/BfaCore-Reforged/releases/tag/v0.3
+
+4.
+https://github.com/Titans-Project/BfaCore-Reforged/releases/tag/v0.3
 
 
 <br>
